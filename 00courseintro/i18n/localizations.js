@@ -9,6 +9,11 @@ String.toLocaleString({
 		"%l_lessontitle": "Introduction",
 		"%l_subtitle": "Titanium Certified Developer Training"
 	},
+	"ar": {
+		"%l_filetitle": "مقدمة",
+		"%l_lessontitle": "مقدمة",
+		"%l_subtitle": "تدريب مطور تيتانيوم معتمد"
+	},
 	"ja": {
 		"%l_filetitle": "はじめに",
 		"%l_lessontitle": "はじめに",

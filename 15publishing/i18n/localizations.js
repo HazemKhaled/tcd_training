@@ -11,5 +11,13 @@ String.toLocaleString({
 		"%l_slidenote_titleslide": "<b>Module time: 60 mins</b><br/>(30 mins teaching, 30 mins for lab)",
 		"%l_agenda_title": "In this lesson, you will learn:"
 
+	},
+    "ar": {
+		"%l_filetitle": "نشر التطبيقات",
+		"%l_lessontitle": "نشر التطبيقات",
+        "%l_subtitle": "تدريب مطور تيتانيوم معتمد (TCD)",
+		"%l_slidenote_titleslide": "<b>مدة المحاضرة: ٦٠ دقيقة</b><br/>(٣٠ دقيقة شرح، ٣٠ دقيقة كود)",
+		"%l_agenda_title": "في هذا الدرس: "
 
-	}});
+	}
+});

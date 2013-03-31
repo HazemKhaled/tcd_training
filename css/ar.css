@@ -1,0 +1,7 @@
+/* no modifications for Arabic */
+html {
+	direction: rtl;
+}
+#reveal .controls .left {
+	right: 75px;
+}

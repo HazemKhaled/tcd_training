@@ -12,6 +12,14 @@ String.toLocaleString({
 		"%l_qa_slide": "Q&amp;A",
 		"%l_slidenote_qa": ""
 	},
+	"ar": {
+		"%l_filetitle": "جافا سكريبت",
+		"%l_lessontitle": "جافا سكريبت",
+        "%l_subtitle": "تدريب مطور تيتانيوم معتمد (TCD)",
+		"%l_slidenote_titleslide": "",
+        "%l_qa_slide": "س&amp;ج",
+		"%l_slidenote_qa": ""
+	},
 	"ja": {
 		"%l_filetitle": "はじめに",
 		"%l_lessontitle": "はじめに",

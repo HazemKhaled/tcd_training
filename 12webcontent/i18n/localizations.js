@@ -10,5 +10,12 @@ String.toLocaleString({
 		"%l_subtitle": "Titanium Certified Developer (TCD) Training",
 		"%l_slidenote_titleslide": "",
 		"%l_agenda_title": "In this lesson, you will:"
+	},
+    "ar": {
+		"%l_filetitle": "دمج صفحات ويب",
+		"%l_lessontitle": "دمج صفحات ويب",
+        "%l_subtitle": "تدريب مطور تيتانيوم معتمد (TCD)",
+		"%l_slidenote_titleslide": "",
+		"%l_agenda_title": "في هذا الدرس: "
 	}
 });
