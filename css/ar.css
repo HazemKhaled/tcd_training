@@ -5,3 +5,28 @@ html {
 #reveal .controls .left {
 	right: 75px;
 }
+#reveal ol, #reveal ul {
+	text-align: right !important;
+	float: right !important;
+}
+section table th {
+	text-align: right !important;
+}
+section table td {
+	text-align: right !important;
+}
+.l_buildprocess3 ul {
+	margin: 10px 60px 10px 10px !important;
+}
+#labwrapper {
+	text-align: right !important;
+}
+#reveal pre {
+	direction: ltr;
+}
+p {
+	text-align: right !important;
+}
+.l_coords4 {
+	text-align: right;
+}
