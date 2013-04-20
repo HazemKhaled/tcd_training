@@ -15,7 +15,7 @@ String.toLocaleString({
 		"%l_filetitle": "اختبار البرنامج",
 		"%l_lessontitle": "اختبار البرنامج",
         "%l_subtitle": "تدريب مطور تيتانيوم معتمد (TCD)",
-        "%l_qa_slide": "س&amp;ج",
+        "%l_qa_slide": "اسئلة واجوبة",
 		"%l_slidenote_qa": ""
 	},
 });

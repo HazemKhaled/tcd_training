@@ -17,7 +17,7 @@ String.toLocaleString({
 		"%l_lessontitle": "تحديد الموقع الجغرافي والخرائط",
         "%l_subtitle": "تدريب مطور تيتانيوم معتمد (TCD)",
 		"%l_slidenote_titleslide": "",
-        "%l_qa_slide": "س&amp;ج",
+        "%l_qa_slide": "اسئلة واجوبة",
 		"%l_slidenote_qa": ""
 	},
 	"ja": {

@@ -15,6 +15,7 @@ String.toLocaleString({
 		"%l_filetitle": "اساسيات تيتانيوم",
 		"%l_lessontitle": "اساسيات تيتانيوم",
         "%l_subtitle": "تدريب مطور تيتانيوم معتمد (TCD)",
+<<<<<<< HEAD
         "%l_qa_slide": "س&amp;ج",
 		"%l_slidenote_qa": "",
 		"%l_agenda_title":"في هذا الدرس سوف نتعرف علي",
@@ -29,5 +30,9 @@ String.toLocaleString({
 		"%l_androidplatforms":"نظم التشغيل الخاصة بالاندرويد او البلاتفورم",
 		"%l_pathsandroid":"المسارات و تهيئة بيئة العمل",
 		"%l_pathtest":"اختبار اعدادت متغيرات بيئة العمل"
+=======
+        "%l_qa_slide": "اسئلة واجوبة",
+		"%l_slidenote_qa": ""
+>>>>>>> working on arabic translation, css file and strings
 	},
 });
